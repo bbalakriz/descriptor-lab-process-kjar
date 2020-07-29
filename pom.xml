@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.acme</groupId>
   <artifactId>descriptor-lab-process-kjar</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>descriptor-lab-process-kjar</name>
   <description>Advanced Process Development - Example for deployment descriptor modifications.</description>
